@@ -4,7 +4,7 @@ Project developed from 0, the objective is create a web application using React,
 
 ### `developing, wait for more updates`
 
-<img align="center" alt="Logo" height="100" width="100" src="https://raw.githubusercontent.com/EmanuelRLima/curseflix/master/src/assets/img/Logo.png">
+<img align="center" alt="Logo_Courseflix" height="100" width="100" src="https://raw.githubusercontent.com/EmanuelRLima/curseflix/master/src/assets/img/Logo.png">
 
 ## Available Scripts
 
